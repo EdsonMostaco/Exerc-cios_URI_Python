@@ -1,0 +1,7 @@
+cpf = input()
+x,y,z = cpf.split('.')
+z,d = z.split('-')
+print(x)
+print(y)
+print(z)
+print(d)
